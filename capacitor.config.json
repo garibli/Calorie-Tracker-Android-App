@@ -1,0 +1,17 @@
+{
+  "appId": "com.caloriefitnesstracker.app",
+  "appName": "Calorie Tracker",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true,
+    "backgroundColor": "#f8fafc"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 1500,
+      "backgroundColor": "#f8fafc",
+      "showSpinner": false
+    }
+  }
+}
